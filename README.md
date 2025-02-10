@@ -59,5 +59,5 @@ Proje şu şekilde yapılandırılmıştır:
 
 1. **Proje Dosyalarını Klonlayın**:
    ```bash
-   git clone [https://github.com/kullanici-adi/proje-adi.git](https://github.com/Eren0zer/-Code16-_oyun_akademisi_bitirme_projesi)
+   git clone https://github.com/Eren0zer/-Code16-_oyun_akademisi_bitirme_projesi
    cd proje-adi
